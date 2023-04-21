@@ -5,7 +5,7 @@ import "./App.css";
 
 const App = () => {
   return (
-    <Main>
+    <main>
       <div className="main">
         <div className="gradient" />
       </div>
@@ -14,7 +14,7 @@ const App = () => {
         <Hero />
         <Demo />
       </div>
-    </Main>
+    </main>
   );
 };
 
