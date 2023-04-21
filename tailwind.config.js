@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        satishi: ["Satoshi", "sans-serif"],
-        inter: ["Inter", "sans-serif"]
+        satoshi: ["Satoshi", "sans-serif"],
+        inter: ["Inter", "sans-serif"],
       },
     },
   },
