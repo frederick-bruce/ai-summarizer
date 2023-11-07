@@ -18,10 +18,10 @@ Vite
 Next.js 13
 Tailwind CSS
 Rapid API
+OpenAI API 
 
 ## Installation
 
-Copy code
 ```
 # Clone the repository
 git clone https://github.com/frederick-bruce/ai-summarizer.git
@@ -31,6 +31,9 @@ cd ai-summarizer
 
 # Install dependencies
 npm install
+
+# OpenAI API Key
+https://platform.openai.com/api-keys
 
 # Run the application
 npm run dev
